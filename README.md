@@ -5,7 +5,7 @@ test-repo
 
 ### Second level heading
 
-## List
+### List
 * First
 * Second
 * Third
