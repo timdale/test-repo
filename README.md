@@ -9,4 +9,3 @@ test-repo
 * First
 * Second
 * Third
-*
